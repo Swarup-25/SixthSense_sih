@@ -21,9 +21,9 @@ The core vision is to create an AI-powered health awareness chatbot that serves 
 The chatbot will offer a suite of essential features through a simple and intuitive chat interface.
 
 * **📍 Proactive Outbreak Alerts**: The flagship feature. The system automatically fetches a user's location and cross-references it with data from the Integrated Disease Surveillance Programme (IDSP). It then sends concise alerts about local outbreaks.
-    > _Example Alert for a user in Hiremalligawad, Karnataka:_
-    > "ಹಿರೇಮಲ್ಲಿಗೆವಾಡಕ್ಕಾಗಿ ಆರೋಗ್ಯ ಎಚ್ಚರಿಕೆ: ಡೆಂಗ್ಯೂ ಪ್ರಕರಣಗಳಲ್ಲಿ ಏರಿಕೆ ಕಂಡುಬಂದಿದೆ. ದಯವಿಟ್ಟು ಸೊಳ್ಳೆಗಳ ಕಡಿತದಿಂದ ರಕ್ಷಿಸಿಕೊಳ್ಳಲು ಕ್ರಮಗಳನ್ನು ಕೈಗೊಳ್ಳಿ."
-    > _(Health Alert for Hiremalligawad: A rise in Dengue cases has been reported. Please take measures to protect against mosquito bites.)_
+    > _Example Alert for a user in Kalahandi, Odisha:_
+    > "କଳାହାଣ୍ଡି ପାଇଁ ସ୍ୱାସ୍ଥ୍ୟ ସତର୍କତା: ଡେଙ୍ଗୁ ମାମଲାରେ ବୃଦ୍ଧି ଦେଖାଯାଇଛି। ଦୟାକରି ମଶା କାମୁଡ଼ାରୁ ନିଜକୁ ରକ୍ଷା କରିବା ପାଇଁ ପଦକ୍ଷେପ ନିଅନ୍ତୁ।"
+    > _(Health Alert for Kalahandi: A rise in Dengue cases has been reported. Please take measures to protect yourself from mosquito bites.)_
 
 * **📖 On-Demand Health Dictionary**: A comprehensive resource where users can ask questions in their native language about various diseases, symptoms, causes, and prevention methods.
 
